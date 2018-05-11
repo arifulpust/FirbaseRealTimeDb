@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "692720919416",
+    "firebase_url": "https://fir-practice-72b96.firebaseio.com",
+    "project_id": "fir-practice-72b96",
+    "storage_bucket": "fir-practice-72b96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692720919416:android:eb90ec0b7dadf43c",
+        "android_client_info": {
+          "package_name": "co.jp.rocketApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692720919416-2seu5rq3mlg0evo7icmr0m786vaj0lue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVIbRj2157DeshSzyI76CQV9HaOH6Ynmg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692720919416:android:d842af33038fad5c",
+        "android_client_info": {
+          "package_name": "info.androidhive.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692720919416-2seu5rq3mlg0evo7icmr0m786vaj0lue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVIbRj2157DeshSzyI76CQV9HaOH6Ynmg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
